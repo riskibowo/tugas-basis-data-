@@ -1,4 +1,4 @@
-# tugsbsis data
+# tugas basis data
 ### 1.Membuat data base latihan2
 ```
 CRATE DATABASE Latihan2
